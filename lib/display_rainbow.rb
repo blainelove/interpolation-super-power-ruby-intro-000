@@ -7,3 +7,4 @@ def display_rainbow(colors)
     puts "B: #{display_rainbow[3]}"
     puts "I: #{display_rainbow[4]}"
     puts "V: #{display_rainbow[5]}"
+end
